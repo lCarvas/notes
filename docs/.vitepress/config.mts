@@ -5,6 +5,8 @@ export default defineConfig({
   title: "Notes",
   description: "Class Notes",
 
+  base: "/notes/",
+
   cleanUrls: true,
   lastUpdated: true,
 
