@@ -4,20 +4,13 @@ layout: home
 
 hero:
   name: "Notes"
-  text: "Class Notes"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Remote Sensing
-      link: /remoteSensing/index
+  tagline: Notes, in case you didn't read the other three things saying Notes
 
 features:
   - title: Remote Sensing
-    details: Step on me
+    details: mango
     link: /remoteSensing/index
   - title: Governance
     details: dos uno
     link: governance/index
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

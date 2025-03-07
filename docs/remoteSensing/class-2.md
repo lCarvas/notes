@@ -6,6 +6,6 @@ The absolute temporal resolution of a remote sensing system to image the exact s
 
 ## Radiometric Resolution
 
-The sensitivity the sensor has for recording variations in the elctro magnetic spectrum. Higher values mean that more subtle appearance changes in the image can be detected.
+The sensitivity the sensor has for recording variations in the electro magnetic spectrum. Higher values mean that more subtle appearance changes in the image can be detected.
 
 ## Data Policy
