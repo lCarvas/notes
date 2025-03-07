@@ -1,7 +1,7 @@
 # Steps of a Remote Sensing Project
 
 1. Define the problem to be solved
-2. Selection of sattelite and sensor
+2. Selection of satellite and sensor
    1. Based on the spatial, spectral and temporal resolutions
 3. Image acquisition
 4. [Exploratory analysis](exploratory-analysis.md)

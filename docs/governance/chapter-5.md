@@ -4,7 +4,7 @@
 
 - Legislation promulgated by a state, federal or local administrative agency
 - Specific in nature
-- Referred to as "rules" or simply "admnistrative law"
+- Referred to as "rules" or simply "administrative law"
 
 ### Most prominent regulations
 
