@@ -10,7 +10,11 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
 
+  head: [["link", { rel: "icon", href: "icon.webp" }]],
+
   themeConfig: {
+    // logo: "/icon.webp",
+
     search: {
       provider: "local",
     },

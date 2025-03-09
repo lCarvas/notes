@@ -9,8 +9,8 @@ hero:
 features:
   - title: Remote Sensing
     details: mango
-    link: /remoteSensing/index
+    link: remoteSensing/
   - title: Governance
     details: dos uno
-    link: governance/index
+    link: governance/
 ---
