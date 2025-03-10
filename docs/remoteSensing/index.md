@@ -1,4 +1,15 @@
-# Steps of a Remote Sensing Project
+# Index
+
+## Grading
+
+- 50% Project
+- 20% Pitch
+- 20% Test
+- 10% Quizzes + In-class participation
+
+## Important Dates
+
+## Chapters (Steps of a Remote Sensing Project)
 
 1. Define the problem to be solved
 2. Selection of satellite and sensor

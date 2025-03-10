@@ -12,6 +12,10 @@ export default defineConfig({
 
   head: [["link", { rel: "icon", href: "icon.webp" }]],
 
+  markdown: {
+    math: true,
+  },
+
   themeConfig: {
     // logo: "/icon.webp",
 
@@ -20,14 +24,21 @@ export default defineConfig({
     },
 
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      { text: "Home", link: "/" },
+      { text: "Class Index", link: "/classIndex" },
+    ],
 
     sidebar: [
       {
         text: "Notes",
         items: [
-          { text: "Remote Sensing Index", link: "/remoteSensing/index" },
-          { text: "Governance Index", link: "/governance/index" },
+          { text: "Remote Sensing Index", link: "/remoteSensing/" },
+          { text: "Governance Index", link: "/governance/" },
+          {
+            text: "Innovation Project",
+            link: "/digitalInnovationProjects/",
+          },
         ],
       },
     ],
