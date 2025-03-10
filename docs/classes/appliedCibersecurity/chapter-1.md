@@ -1,11 +1,18 @@
+---
+title: "Chapter 1"
+---
+
 # Introduction to Applied Cybersecurity
 
 ## 1. Notion of AP Cyber
-Often refered to the application of technologies, processes and practises used to protect important assets from unauthorized acess or damage.
+
+Often referred to the application of technologies, processes and practises used to protect important assets from unauthorized access or damage.
 Includes a wide range of activities (not just technology) such as risk management, incident response, disaster recovery, network security and compliance with regulation. Firewalls, intrusion detection systems and multi-factor authentication are often used to prevent cyber threats.
 
 ## 1.1 Why is it important?
+
 To cover topics such as:
+
 - Cybersecurity fundamentals
 - Risk management
 - Network security
@@ -13,6 +20,7 @@ To cover topics such as:
 - Compliance and regulations
 
 ## 1.2 NIST framework
+
 The National Institute of Standards and Technology Cybersecurity Framework was developed to help organization manage their cyber risks. Provides elaborate guidelines and standards for companies to follow.
 
 - Identify: Helps organizations understand their assets and risks

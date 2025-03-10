@@ -3,12 +3,12 @@
 ## Image Visualization
 
 One band visualization - grey tones\
-Three band visualization - colour compostives
+Three band visualization - color composites
 
-### Why colour composites
+### Why color composites
 
-Human vision is more sensitive to colours than to grey tones\
-It allows the simultaneous visualisation of three colours
+Human vision is more sensitive to colors than to grey tones\
+It allows the simultaneous visualization of three colors
 
 ## Digital Number
 
@@ -16,7 +16,7 @@ It allows the simultaneous visualisation of three colours
 - Radiation goes through atmosphere
   - Radiation goes through scattering/absorption
 - Radiation gets reflected back through the atmosphere
-- Radiance (watts/m^2/s) arrives at the sattelite
+- Radiance (watts/m^2/s) arrives at the satellite
   - Radiance is different from Reflectance
 - Satellite converts received Radiance to a Digital Number
   - e.g. 4 watts/m^2/s is equivalent to a DN of 10
@@ -40,10 +40,10 @@ The surface will look different from Summer to Winter
 Reflectance does not depend on Sun geometry, due to being a proportion between Reflected Energy and Incident Energy (Er/Ei)
 
 We can convert Digital Number to Reflectance (Radiometric Conversion)  
-This can be done as the Energy Emmited by the Sun is registered  
+This can be done as the Energy Emitted by the Sun is registered  
 The Digital Number gives us the Energy Reflected and the table registries give us the Incident Energy. The values from the aforementioned tables cannot be used directly due to not taking into account the scattering/absorption that happens when radiation goes through the atmosphere. To fix this, we need to perform Atmospheric Correction. This is harder to achieve as we need to have knowledge on the atmospheric conditions of the day and location we are getting the images from.
 
-What really characterises the surface elements?  
+What really characterizes the surface elements?  
 Reflectance as it does not depend on Sun Geometry
 
 What do we have in a Satellite Image?  
@@ -61,9 +61,9 @@ Doing Radiometric Correction, that is, converting radiance to reflectance is a w
 
 ### RGB System
 
-In the RGB system, the analyst can assign one band to each colour (red, green, blue)
+In the RGB system, the analyst can assign one band to each color (red, green, blue)
 
-Using False Color Composites allows us to see wavelenghts that humans cannot see (e.g. Near Infrared). For example, we can assign the NIR band to the R in the RGB to obtain the value of the NIR as a value of red that we can observe
+Using False Color Composites allows us to see wavelengths that humans cannot see (e.g. Near Infrared). For example, we can assign the NIR band to the R in the RGB to obtain the value of the NIR as a value of red that we can observe
 
 ## Visual Interpretation
 
@@ -75,7 +75,7 @@ The most used band is NIR, most analysis assign NIR to the red band
 
 ### Basic Rules for Visual Interpretation
 
-1. Visual interpretation should always be bassed on the simultaneous analysis of spectral and spatial patterns. Whenever possible, and mostly for vegetaion classes, temporal patterns can be very important
+1. Visual interpretation should always be based on the simultaneous analysis of spectral and spatial patterns. Whenever possible, and mostly for vegetation classes, temporal patterns can be very important
    1. e.g. Annual agriculture vs pastures
 2. Spectral patterns can be used to identify the three fundamental types of Earth surface elements
    - Independently of the used color composite:
@@ -101,7 +101,7 @@ The most used band is NIR, most analysis assign NIR to the red band
 
 #### Tone
 
-The relative brightness or colour of objects in an image
+The relative brightness or color of objects in an image
 
 Generally, tone is the fundamental element for distinguishing between different features
 

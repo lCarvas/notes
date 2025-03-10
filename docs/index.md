@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Class Index
-      link: classIndex
+      link: classes/
 
 # features:
 #   - title: Class Index
