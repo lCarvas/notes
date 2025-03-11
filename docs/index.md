@@ -8,8 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Class Index
-      link: classes/
-
+      link: introduction
 # features:
 #   - title: Class Index
 #     details: mango

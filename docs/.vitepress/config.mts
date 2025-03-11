@@ -37,6 +37,7 @@ const vitePressConfigs = {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig(
+  // @ts-ignore
   withSidebar(vitePressConfigs, {
     /*
      * For detailed instructions, see the links below:
@@ -44,49 +45,48 @@ export default defineConfig(
      */
     //
     // ============ [ RESOLVING PATHS ] ============
-    documentRootPath: "/docs/classes",
-    // scanStartPath: null,
-    // resolvePath: null,
-    // basePath: null,
+    documentRootPath: "docs",
+    // scanStartPath: "/classes",
+    // resolvePath: "/classes/",
+    // basePath: "/notes/docs",
     //
     // ============ [ GROUPING ] ============
-    collapsed: false,
-    collapseDepth: 2,
-    // rootGroupText: 'Contents',
+    collapsed: true,
+    // collapseDepth: 1,
+    // rootGroupText: "Contents",
     // rootGroupLink: 'https://github.com/jooy2',
     // rootGroupCollapsed: false,
     //
     // ============ [ GETTING MENU TITLE ] ============
-    useTitleFromFileHeading: true,
-    useTitleFromFrontmatter: true,
-    // useFolderLinkFromIndexFile: false,
-    // useFolderTitleFromIndexFile: false,
+    // useTitleFromFileHeading: true,
+    // useTitleFromFrontmatter: true,
+    // useFolderTitleFromIndexFile: true,
     // frontmatterTitleFieldName: 'title',
     //
     // ============ [ GETTING MENU LINK ] ============
     // useFolderLinkFromSameNameSubFile: false,
-    // useFolderLinkFromIndexFile: false,
+    useFolderLinkFromIndexFile: true,
     // folderLinkNotIncludesFileName: false,
     //
     // ============ [ INCLUDE / EXCLUDE ] ============
-    // excludePattern: ['README.md', 'folder/'],
+    // excludePattern: ["README.md"],
     // excludeFilesByFrontmatterFieldName: 'exclude',
     // includeDotFiles: false,
     // includeEmptyFolder: false,
     includeRootIndexFile: false,
-    // includeFolderIndexFile: false,
+    // includeFolderIndexFile: true,
     //
     // ============ [ STYLING MENU TITLE ] ============
-    // hyphenToSpace: true,
+    hyphenToSpace: true,
     // underscoreToSpace: true,
     // capitalizeFirst: false,
-    // capitalizeEachWords: false,
+    capitalizeEachWords: true,
     // keepMarkdownSyntaxFromTitle: false,
     // removePrefixAfterOrdering: false,
     // prefixSeparator: '.',
     //
     // ============ [ SORTING ] ============
-    // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
+    manualSortFileNameByPriority: ["introduction.md"],
     // sortFolderTo: null,
     // sortMenusByName: false,
     // sortMenusByFileDatePrefix: false,
@@ -98,6 +98,6 @@ export default defineConfig(
     // sortMenusOrderNumericallyFromLink: false,
     //
     // ============ [ MISC ] ============
-    // debugPrint: false,
+    // debugPrint: true,
   })
 );

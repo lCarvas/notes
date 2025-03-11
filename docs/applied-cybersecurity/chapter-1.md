@@ -1,7 +1,3 @@
----
-title: "Chapter 1"
----
-
 # Introduction to Applied Cybersecurity
 
 ## 1. Notion of AP Cyber
