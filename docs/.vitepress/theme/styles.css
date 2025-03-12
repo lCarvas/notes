@@ -2,3 +2,16 @@
   --vp-home-hero-name-background: #71bced;
   --vp-home-hero-name-color: transparent;
 }
+
+.mermaid {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.mermaid .node foreignObject div {
+  overflow: visible !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 100% !important;
+}
