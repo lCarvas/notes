@@ -1,4 +1,4 @@
-# Chapter 1
+# Chapter 1 - Introduction to Business Process Management
 
 ## What is a business process?
 BP can be considered as a complete set of activities end-to-end that creates value for the costumer
@@ -16,12 +16,12 @@ monitor and control both automated and non-automated business processes.
 - Outcome: can be positive or negative, depending if it brough value to main actor
 
 ### Modelling
-- Events
-- Activities and sequence flow
-- Gateways
->1. XOR
->2. AND
->3. OR
+1. Events
+2. Activities and sequence flow
+3. Gateways
+    1. XOR (exclusive path after asking a question)
+    2. AND (both paths in parallel )
+    3. OR (take one or more paths)
 
 A **repetition block** can be created if activities are not done correctly, for this to be done, the model needs to have a select block of activities with a xor getaway to check if the activity was done correctly.
 
@@ -51,4 +51,3 @@ Control the execution of the processes
 
 ## BPM vs Process Mining
 While BPM aims to discover and blah blah processes, Process Mining aims to do the same thing but with **knowledge**.
-
