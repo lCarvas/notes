@@ -1,4 +1,4 @@
 # Introduction
 
-Kappa chungus 
+Kappa chungus
 Thanks for using!

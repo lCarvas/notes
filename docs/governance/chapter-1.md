@@ -113,58 +113,62 @@ Examples:
 <p style="text-align: right">Dr. Peter Weill, MIT (study of 250 enterprises in 23 countries)</p>
 
 <table>
-  <tr>
-    <th></th>
-    <th>IT Decision</th>
-    <th>Senior Management's Role</th>
-    <th>Failure Consequence</th>
-  </tr>
-  <tr>
-    <td rowspan="3">Strategy</td>
-    <td>How much should we spend on IT</td>
-    <td>
-      Define the strategic role that IT will play in the company and then
-      determine the level of funding needed to achieve that objective
-    </td>
-    <td>The company fails to develop an IT platform that furthers its strategy, despite high IT spending</td>
-  </tr>
-  <tr>
-    <td>Which business processes should we include on IT budget</td>
-    <td>
-      Make clear decisions about which IT initiatives will or will not be funded
-    </td>
-    <td>A lack of focus overwhelms the IT unit, which tries to deliver many projects that may have little company wide value or can’t be implemented well simultaneously</td>
-  </tr>
-  <tr>
-    <td>Which IT capabilities should be outsourced</td>
-    <td>
-      Decide which IT capabilities should be provided centrally and which should
-      be developed by individual businesses
-    </td>
-    <td>The company may pay for service options that, given its priorities, aren’t worth the costs</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Execution / Operation</td>
-    <td>How good do our IT services really need to be</td>
-    <td>
-      Decide which features—for example, enhanced reliability or response
-      time—are needed on the basis of their costs and benefits
-    </td>
-    <td>Excessive technical and process standardization limits the flexibility of business units, or frequent exceptions to the standards increase costs and limit business synergies</td>
-  </tr>
-  <tr>
-    <td>What security and privacy risks will we accept</td>
-    <td>
-      Lead the decision making on the trade-offs between security and privacy on one hand and convenience on the other
-    </td>
-    <td>An overemphasis on security and privacy may inconvenience customers, employees, and suppliers; an underemphasis may make data vulnerable</td>
-  </tr>
-  <tr>
-    <td>Whom should we blame if an IT initiative fails</td>
-    <td>
-      Assign a business executive to be accountable for every IT project;
-      monitor business metrics
-    </td>
-    <td>The business value of systems is never realized</td>
-  </tr>
+  <thead>
+    <tr>
+      <th></th>
+      <th>IT Decision</th>
+      <th>Senior Management's Role</th>
+      <th>Failure Consequence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Strategy</td>
+      <td>How much should we spend on IT</td>
+      <td>
+        Define the strategic role that IT will play in the company and then
+        determine the level of funding needed to achieve that objective
+      </td>
+      <td>The company fails to develop an IT platform that furthers its strategy, despite high IT spending</td>
+    </tr>
+    <tr>
+      <td>Which business processes should we include on IT budget</td>
+      <td>
+        Make clear decisions about which IT initiatives will or will not be funded
+      </td>
+      <td>A lack of focus overwhelms the IT unit, which tries to deliver many projects that may have little company wide value or can’t be implemented well simultaneously</td>
+    </tr>
+    <tr>
+      <td>Which IT capabilities should be outsourced</td>
+      <td>
+        Decide which IT capabilities should be provided centrally and which should
+        be developed by individual businesses
+      </td>
+      <td>The company may pay for service options that, given its priorities, aren’t worth the costs</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Execution / Operation</td>
+      <td>How good do our IT services really need to be</td>
+      <td>
+        Decide which features—for example, enhanced reliability or response
+        time—are needed on the basis of their costs and benefits
+      </td>
+      <td>Excessive technical and process standardization limits the flexibility of business units, or frequent exceptions to the standards increase costs and limit business synergies</td>
+    </tr>
+    <tr>
+      <td>What security and privacy risks will we accept</td>
+      <td>
+        Lead the decision making on the trade-offs between security and privacy on one hand and convenience on the other
+      </td>
+      <td>An overemphasis on security and privacy may inconvenience customers, employees, and suppliers; an underemphasis may make data vulnerable</td>
+    </tr>
+    <tr>
+      <td>Whom should we blame if an IT initiative fails</td>
+      <td>
+        Assign a business executive to be accountable for every IT project;
+        monitor business metrics
+      </td>
+      <td>The business value of systems is never realized</td>
+    </tr>
+  </tbody>
 </table>
