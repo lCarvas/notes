@@ -4,8 +4,8 @@ Attackers will simulate network attack; Detect the attack using Wireshark; the D
 
 ## Presentation format
 - 15 mins maximum
-1. 5 min theoretical presentation: Summary of the mini-case, explain scenario
-2. 10 min practical demonstration
+- 5 min theoretical presentation: Summary of the mini-case, explain scenario
+1. 10 min practical demonstration
 
 ## TODO list
 - [X] Setup scenario
