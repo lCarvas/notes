@@ -179,3 +179,103 @@ e.g. Maximum Likelihood Classifier
 #### Non-Parametric Classifiers
 
 e.g. Decision Trees, Artificial Neural Networks, Support Vector Machines, Nearest Neighbour
+
+##### Artificial Neural Networks
+
+An ANN is a form of artificial intelligence that imitates some functions of the human brain.
+An ANN consists of a series of layers, each containing a set of processing units (i.e. neurones)
+All neurones on a given layers are linked by weighted connections to all neurones on the previous and subsequent layers
+During the training phase, the ANN learns about the regularities present in the training data, and based on these regularities, constructs rules that can be extended to the unknown data
+
+###### Most common types of ANN
+
+- Multi-layer perceptron with back-propagation
+- Self-organised feature map (SOM)
+- Hopfield networks
+- ART (Adaptive Resonance Theory) Systems
+
+###### Advantages of ANN
+
+- It is a non-parametric classifier, i.e. it does not require any assumption about the statistical distribution of the data
+- High computation rate, achieved by their massive parallelism, resulting from a dense arrangement of interconnections (weights) and simple processors (neurones), which permits real-time processing of very large datasets
+
+###### Disadvantages of ANN
+
+- ANN are semantically poor. It is difficult to gain any understanding about how the result was achieved.
+- The training of an ANN can be computationally demanding and slow.
+- ANN are perceived to be difficult to apply successfully. It is difficult to select the type of network architecture, the initial values of parameters such as learning rate and momentum, the number of iterations required to train the network and the choice of initial weights.
+
+##### Decision Trees
+
+![Decision Tree Diagram](./diagrams/decision-trees.drawio.svg)
+
+- DT are knowledge based (i.e. a method of pattern recognition that simulates the brains inference mechanism).
+- DT are hierarchical rule based approaches.
+- DT predict class membership by recursively partitioning a dataset into homogeneous subsets.
+- Different variables and splits are then used to split the subsets into further subsets.
+- There are hard and soft (fuzzy) DT.
+
+###### Advantages of DT
+
+- Ability to handle non-parametric training data, i.e. DT are not based on any assumption on training data distribution.
+- DT can reveal nonlinear and hierarchical relationships between input variables and use these to predict class membership.
+- DT yields a set of rules which are easy to interpret and suitable for deriving a physical understanding of the classification process.
+- DT, unlike ANN, do not need an extensive design and training.
+- Good computational efficiency.
+
+###### Disadvantages of DT
+
+- The use of hyperplane decision boundaries parallel to the feature axes may restrict their use in which classes are clearly distinguishable.
+
+### Number of outputs for each spatial unit
+
+#### Hard (Crisp) Classification
+
+Each pixel is forced or constrained to show membership to a single class.
+
+#### Soft (Fuzzy) Classification
+
+Each pixel may display multiple and partial class membership.
+
+Soft classification has been proposed in the literature as an alternative to hard classification because of its ability to deal with mixed pixels
+
+### The Mixed Pixel Problem
+
+The number of mixed pixels in an images varies mainly with:
+
+- Landscape fragmentation
+- Sensor's Spatial Resolution
+
+#### Course Resolution
+
+- Mixed pixels are mainly due to co-existence in the same pixel of different classes
+
+#### Fine Resolution
+
+- Mixed pixels are mainly due to co-existence in the same pixel of different components (e.g., houses, trees)
+
+### How can we represent the sub-pixel information
+
+Sub-pixel scale information is typically represented in the output of a soft classification by the _strength of membership a pixel displays to each class_.
+
+It is used to reflect the relative proportion of the classes in the area represented by the pixel
+
+### Soft Classifiers
+
+#### Most common soft classifiers
+
+- Maximum likelihood classification
+- Fuzzy c-means
+- Possibilistic c-means
+- Fuzzy rule based classifications
+- Artificial neural networks
+
+## Ancillary Data Integration
+
+Ancillary data can be integrated after image classification in order to improve the results
+
+### Post-classification sorting
+
+Application of very specific rules to classification results and to geographical ancillary data (e.g., elevation, slope, aspect)
+
+There are several strategies based on expert systems, rule based systems and knowledge base systems
