@@ -34,6 +34,29 @@ System consisting of specific policies and procedures designed to provide manage
 
 A comprehensive framework that assists enterprises to achieve their goals and deliver value through effective governance and management of enterprise IT.
 
+### COBIT Core Model
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan=2><b>Evaluate, Direct and Monitor (EDM)</b><br>The governing body evaluates strategic options, directs senior management on the chosen strategic
+options and monitors the achievement of the strategy</td>
+    </tr>
+    <tr>
+      <td><b>Align, Plan and Organize (APO)</b><br>Addresses the overall organization, strategy and supporting activities for I&T</td>
+      <td rowspan=3><b>Monitor, Evaluate and Assess (MEA)</b><br>addresses performance monitoring and conformance of I&T with internal performance targets, internal control objectives and external requirements</td>
+    </tr>
+    <tr>
+      <td><b>Build, Acquire and Implement (BAI)</b><br>treats the definition, acquisition and implementation of I&T solutions and their integration in business processes.</td>
+    </tr>
+    <tr>
+      <td><b>Deliver, Service and Support (DSS)</b><br>addresses the operational delivery and support of I&T services, including security</td>
+    </tr>
+  </tbody>
+</table>
+
+### Governance System Principles
+
 1. Provide Stakeholder Value
 2. Holistic Approach
 3. Dynamic Governance System
@@ -71,3 +94,26 @@ A comprehensive framework that assists enterprises to achieve their goals and de
 | Innovation/Differentiation | The enterprise has a focus on offering different and/or innovative products and services to their clients. |
 | Cost Leadership            | The enterprise has a focus on short-term cost minimization.                                                |
 | Client Service/Stability   | The enterprise has a focus on providing stable and client-oriented service.                                |
+
+## The Committee of Sponsoring Organizations of the Treadway Commission (COSO) Framework
+
+### Three Categories of Business Objectives
+
+- Operations: effective and efficient use of its resources
+- Reporting: reliability of reporting
+- Compliance: compliance with applicable laws and regulations
+
+### The Four Entities Units
+
+- Entity level
+- Division
+- Operating Unit
+- Function
+
+### The Five Components
+
+- Control environment
+- Risk assessment
+- Control activities
+- Information and communication
+- Monitoring Activities

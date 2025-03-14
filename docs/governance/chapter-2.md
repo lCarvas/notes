@@ -35,4 +35,4 @@
 
 ## Service Quality Gap
 
-![Diagram 3](./diagrams/diagram-3.drawio.svg)
+![Diagram 3](./assets/diagram-3.drawio.svg)

@@ -207,7 +207,7 @@ During the training phase, the ANN learns about the regularities present in the 
 
 ##### Decision Trees
 
-![Decision Tree Diagram](./diagrams/decision-trees.drawio.svg)
+![Decision Tree Diagram](./assets/decision-trees.drawio.svg)
 
 - DT are knowledge based (i.e. a method of pattern recognition that simulates the brains inference mechanism).
 - DT are hierarchical rule based approaches.

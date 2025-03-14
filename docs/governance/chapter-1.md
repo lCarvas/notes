@@ -2,7 +2,7 @@
 
 “Corporate governance is the set of processes, customs, policies, laws, and institutions affecting the way a corporation (or company) is directed, administered or controlled, including the relationships among the many stakeholders involved and the goals for which the corporation is governed.” - Principles of Corporate Governance, OECD, 2004
 
-![Diagram 1](./diagrams/diagram-1.drawio.svg)
+![Diagram 1](./assets/diagram-1.drawio.svg)
 
 "IT governance is the responsibility of executives and the board of directors, and consists of the leadership, organisational structures and processes that ensure that the enterprise’s IT sustains and extends the organisation’s strategy and objectives." - IT Governance Institute, 2005
 
@@ -25,7 +25,7 @@
 
 ## Emergence of IT Governance
 
-![Diagram 2](./diagrams/diagram-2.drawio.svg)
+![Diagram 2](./assets/diagram-2.drawio.svg)
 
 **Information Technology (IT)**
 
