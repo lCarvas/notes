@@ -1,6 +1,5 @@
 :root {
-  --vp-home-hero-name-background: #71bced;
-  --vp-home-hero-name-color: transparent;
+  --vp-c-brand-1: #82c3f5;
 }
 
 :root.dark img[src$=".svg"] {
