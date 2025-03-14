@@ -18,5 +18,21 @@
 
 - Human Capital
   - Individual and team competences of the employees, their knowledge (skills, expertise, experience, and contacts)
-    - implicit (or tacit: people's know-how)
-    - explicit (can be documented and used by someone else)
+    - Implicit (or tacit: people's know-how)
+    - Explicit (can be documented and used by someone else)
+- Structural Capital
+  - Organization's 'hard' intangible
+    - Assets (patents, copyrights / intellectual property, software, databases, documents, methodologies)
+    - Processes and Standards
+    - Values
+    - Objectives (particularly strategic)
+- Market capital
+  - Corporate and product:
+    - Branding (reputation and public perception)
+    - Supply-chain
+    - Partner, and customer relationships
+    - Market momentum
+
+## Service Quality Gap
+
+![Diagram 3](./diagrams/diagram-3.drawio.svg)
