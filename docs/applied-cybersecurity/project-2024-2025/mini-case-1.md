@@ -9,14 +9,14 @@ Attackers will simulate network attack; Detect the attack using Wireshark; the D
 
 1. 10 min practical demonstration
 
-## TODO list
+## TO-DO list
 
 - [x] Setup scenario
 - [ ] Create script/scenario
 - [ ] Test DDOS with LOIC with and without HPING3
 - [ ] Test with port 80 closed, firewall activated and with antivirus
 - [ ] Test with port 80 opened, no firewall and no antivirus
-- [ ] Figure out ways to defend agaisnt the DDOS
+- [x] Figure out ways to defend against the DDOS
 
 ## Scenario
 
@@ -24,6 +24,9 @@ Neighbours, the attacked household, has a dog. Every time the attacked go walk t
 
 ---
 
-- Probably worth mentioning that perhaps looking at certain types of packets incoming (from hping3) could be intelligent if the attack was a DOS (one ip) but since it's a DDOS attack, multiple ID's could be used rendering useless the technique of blocking a certain IP
+## Relevant Information
 
-- Group will use whitelisting, allowing only packets from whitelisted ips
+- Probably worth mentioning that perhaps looking at certain types of packets incoming (from hping3) could be intelligent if the attack was a DOS (one ip) but since it's a DDOS attack, multiple ID's could be used rendering useless the technique of blocking a certain IP
+- Group will use firewall whitelisting, allowing only packets from whitelisted ips
+- LOIC's UDP Flood attacks send UDP packets to random destination ports. A such, closing a specific port is an uneffective solution
+- IP whitelisting using iptables or ufw should protect the user from the DOS/DDOS attacks

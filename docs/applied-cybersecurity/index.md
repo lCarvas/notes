@@ -9,7 +9,7 @@
 
 ## Mini Cases
 
-- MC1: Sniffing using Wireshark
+- [MC1: Sniffing using Wireshark](./project-2024-2025/mini-case-1.md)
 - MC2: Password management
 - MC3: Symmetric Encryption
 - MC4: Asymmetric Encryption
