@@ -36,3 +36,13 @@ The National Institute of Standards and Technology Cybersecurity Framework was d
 6. Installation: The attacker installs malware or other tools on the target system to maintain access and control
 7. Command and control: The attacker establishes communication with the malware on the target system to issue commands and receive data
 8. Actions on objectives: The attacker achieves their goals, such as stealing data, disrupting operations, or damaging the system
+
+## 1.4 ENISA Strategy
+ENISA is an European agency that works to enhance cybersecurity in the EU. Any cybersecurity firm or job in the EU will follow their strategy.
+
+ENISA Strategy is centeres around four pillars:
+
+1. Cybersecurity as a fundamental *right*
+2. Building a strong cybersecurity *culture*
+3. Fostering a thriving cybersecurity *ecosystem*
+4. Ensuring a *high level of cybersecurity* in the EU
