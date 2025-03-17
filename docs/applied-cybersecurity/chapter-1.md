@@ -26,13 +26,14 @@ The National Institute of Standards and Technology Cybersecurity Framework was d
 - Recover: Helps companies recover after an incident and return to normal function
 
 ## 1.3 Kill chain
+
 ![kill-chain](./assets/image.png)
 
 1. Reconnaissance: The attacker collects information about the target system and its vulnerabilities
 2. Weaponization: The attacker creates the tools necessary to execute the attack, such as malware, exploits, or payloads
 3. Delivery: The attacker delivers the weaponized payload to the target system, such as through email, phishing, or network intrusion
 4. Exploitation: The attacker takes advantage of the vulnerabilities in the target system to gain access and control (we can start escalating privilege meaning starting at a person with admin privilege you can access whole system)
-5. **(In red)** After privilege escalation you should do another internal reconnaissance  
+5. **(In red)** After privilege escalation you should do another internal reconnaissance
 6. Installation: The attacker installs malware or other tools on the target system to maintain access and control
 7. Command and control: The attacker establishes communication with the malware on the target system to issue commands and receive data
 8. Actions on objectives: The attacker achieves their goals, such as stealing data, disrupting operations, or damaging the system
