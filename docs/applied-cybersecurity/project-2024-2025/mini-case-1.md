@@ -20,7 +20,16 @@ Attackers will simulate network attack; Detect the attack using Wireshark; the D
 
 ## Scenario
 
-Neighbours, the attacked household, has a dog. Every time the attacked go walk their dog, the dog poops in front of their neighbour's/attacker's house. The attacker, tired of this behavior decides to get revenge on the neighbour. The attacker goes to the neighbour's house, pretending to need their Wi-Fi, because his own Wi-Fi is currently not working due to a mistake on the ISP's side. The attacker acquire the attacked's Wi-Fi password. The attacker knows that the attacked is hosting a minecraft server for their friends. The attacker then proceeds to send a DOS attack to the neighbour's network, completely ruining his minecraft server, as the Attacked neighbour does not have any DOS protection. Fast Forward a bit, the Attacked neighbour acquires a software, (lets all thank the sponsor of today's video xd) Norton, which has DOS attack protection. The Attacked neighbour does not have their seerver ruined, the Attacker still gets dog shit in front of their house. All is well when it ends well.
+Diogo and Eli have a Minecraft server, they are neighbours of Miguel and Alex.
+Diogo and Eli have a dog, they walk this dog everyday, the dog has a tendency to poop in front of their neighbours, Miguel and Alex', house. One day, Miguel and Alex, become tired of this behavior, and decide to ruin Diogo and Eli's Minecraft server by doing a DOS attack. They go over to their neighbours' house, pretending to be interested in watching a movie with Eli and Diogo. After getting into their house, they request the Wi-Fi password. Their neighbours, unaware of their true intentions, give it to them. After acquiring the Wi-Fi password, Alex and Miguel have everything they need to start the attack. They start an attack to port 25565, the port of the Minecraft Server (show task manager impact).
+
+### If Diogo succeeds in stopping the attack
+
+Since Diogo has some knowledge in cybersecurity, he manages to block the neighbours' attack by blocking their ip (show task manager impact).
+
+### If Diogo DOES NOT succeed in stopping the attack (most likely option)
+
+Diogo is an absolute dingus and has no clue about cybersecurity, as such, his Minecraft server is impacted and he and his friends are unable to play.
 
 ---
 

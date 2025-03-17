@@ -39,11 +39,12 @@ The National Institute of Standards and Technology Cybersecurity Framework was d
 8. Actions on objectives: The attacker achieves their goals, such as stealing data, disrupting operations, or damaging the system
 
 ## 1.4 ENISA Strategy
+
 ENISA is an European agency that works to enhance cybersecurity in the EU. Any cybersecurity firm or job in the EU will follow their strategy.
 
 ENISA Strategy is centeres around four pillars:
 
-1. Cybersecurity as a fundamental *right*
-2. Building a strong cybersecurity *culture*
-3. Fostering a thriving cybersecurity *ecosystem*
-4. Ensuring a *high level of cybersecurity* in the EU
+1. Cybersecurity as a fundamental _right_
+2. Building a strong cybersecurity _culture_
+3. Fostering a thriving cybersecurity _ecosystem_
+4. Ensuring a _high level of cybersecurity_ in the EU
