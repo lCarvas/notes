@@ -12,3 +12,5 @@ Used to estimate the cost of a project (Ballpark figures)
 - Software
 - People
 - Accomodation
+
+![This Bitch Empty](./assets/empty.gif)
