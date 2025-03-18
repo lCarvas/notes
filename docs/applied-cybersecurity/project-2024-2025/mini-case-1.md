@@ -33,6 +33,25 @@ Diogo is an absolute dingus and has no clue about cybersecurity, as such, his Mi
 
 ---
 
+## Script
+
+As our main characters, Diogo and Alex will not have many speaking roles in the play.
+We start off by Miguel explaining the issue.
+
+**Miguel:** I live with Alex, our neighbours are so annoying! They walk their dog everyday. Every day! AND they never pick up after the dog. I hate that dog and I hate our neighbours.
+
+**Miguel:** So you know what we did? We went to their house, to "watch a movie" [Miguel points towards Alex and Diogo]
+
+**Alex:** Oh, by the way, could you tell me your wifi password? I just need to send an e-mail.
+
+[Back to Miguel and Eli]
+
+**Eli:** I remember that day, ii was so excited, telling Miguel that me, Diogo and our other friends have a minecraft server. Diogo hosts it himself!
+
+**Miguel:** Right there we knew how we were going to get our revenge!
+
+[With our scenario explained, we start the attack. Diogo and Alex can narrate their actions, to give context to what they are doing]
+
 ## Relevant Information
 
 - Probably worth mentioning that perhaps looking at certain types of packets incoming (from hping3) could be intelligent if the attack was a DOS (one ip) but since it's a DDOS attack, multiple ID's could be used rendering useless the technique of blocking a certain IP
