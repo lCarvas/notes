@@ -58,3 +58,10 @@ We start off by Miguel explaining the issue.
 - Group will use firewall whitelisting, allowing only packets from whitelisted ips
 - LOIC's UDP Flood attacks send UDP packets to random destination ports. As such, closing a specific port is an uneffective solution
 - IP whitelisting using iptables or ufw should protect the user from the DOS/DDOS attacks
+
+### Relevant Theoretical
+- OSI Layers
+    ![OSI-Layers](./assets/OSI-7-layers.jpg)
+- TPC
+- UDP
+- LOIC
