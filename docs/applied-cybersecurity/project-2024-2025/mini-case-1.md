@@ -63,7 +63,16 @@ We start off by Miguel explaining the issue.
 
 - **OSI Layers**
 
-  ![OSI-Layers](/assets/OSI-7-layers.jpg)
+  ![OSI-Layers](../assets/OSI-7-layers.jpg)
+
+    1. **Phisical Layer:**
+    2. **Data Link Layer:**
+    3. **Network Layer:**
+    4. **Transport Layer:** Provides end-to-end communication services.
+    5. **Session Layer:** Manages and controls the connections between computers. Establishes, maintains and terrminates connections. Key functionalities: session checkpoint and recovery.
+    6. **Presentation Layer:** a.k.a syntax layer, respomsible for translating data between layer 7 and layer 3. Key functionalities: data formatting, encryption, compression.
+    7. **Application Layer:** Interface between the end-user applications and underlying network services. Key funcionalities: resource sharing, remote file access and network management.
+
 - TPC
 - UDP
 - LOIC
