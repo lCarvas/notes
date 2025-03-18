@@ -60,8 +60,8 @@ We start off by Miguel explaining the issue.
 - IP whitelisting using iptables or ufw should protect the user from the DOS/DDOS attacks
 
 ### Relevant Theoretical
-- OSI Layers
-    ![OSI-Layers](./assets/OSI-7-layers.jpg)
+- **OSI Layers**
+    ![OSI-Layers](../assets/OSI-7-layers.jpg)
 - TPC
 - UDP
 - LOIC
