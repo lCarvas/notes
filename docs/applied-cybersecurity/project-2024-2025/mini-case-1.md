@@ -62,6 +62,7 @@ We start off by Miguel explaining the issue.
 ### Relevant Theoretical
 
 - **OSI Layers**
+
   ![OSI-Layers](/assets/OSI-7-layers.jpg)
 - TPC
 - UDP
