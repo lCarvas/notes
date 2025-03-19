@@ -1,6 +1,7 @@
 # Index
 
 1. [Chapter 1 - Introduction to Cybersecurity](chapter-1.md)
+2. [Chapter 2 - Working Environment](chapter-2.md)
 
 ## Evaluation
 
@@ -10,12 +11,12 @@
 ## Mini Cases
 
 - [MC1: Sniffing using Wireshark](./project-2024-2025/mini-case-1.md)
-- MC2: Password management
-- MC3: Symmetric Encryption
-- MC4: Asymmetric Encryption
-- MC5: Database Security
-- MC6: Social Engineering
-- MC7: Safe Web
+- [MC2: Password management](./project-2024-2025/mini-case-2.md)
+- [MC3: Symmetric Encryption]()
+- [MC4: Asymmetric Encryption]()
+- [MC5: Database Security]()
+- [MC6: Social Engineering]()
+- [MC7: Safe Web]()
 
 ## Final Project
 

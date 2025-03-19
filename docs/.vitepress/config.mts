@@ -24,10 +24,7 @@ const vitePressConfigs = {
     },
 
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Class Index", link: "/classIndex" },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     outline: "deep",
 

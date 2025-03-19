@@ -1,4 +1,4 @@
-# MC: 1 Sniffing using Wireshark
+# MC1:  Sniffing using Wireshark
 
 Attackers will simulate network attack; Detect the attack using Wireshark; the Defender will secure the detected vulnerabilities.
 
