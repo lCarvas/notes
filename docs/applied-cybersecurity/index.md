@@ -12,11 +12,11 @@
 
 - [MC1: Sniffing using Wireshark](./project-2024-2025/mini-case-1.md)
 - [MC2: Password management](./project-2024-2025/mini-case-2.md)
-- [MC3: Symmetric Encryption]()
-- [MC4: Asymmetric Encryption]()
-- [MC5: Database Security]()
-- [MC6: Social Engineering]()
-- [MC7: Safe Web]()
+- [MC3: Symmetric Encryption](./project-2024-2025/mini-case-3.md)
+- [MC4: Asymmetric Encryption](./project-2024-2025/mini-case-4.md)
+- [MC5: Database Security](./project-2024-2025/mini-case-5.md)
+- [MC6: Social Engineering](./project-2024-2025/mini-case-6.md)
+- [MC7: Safe Web](./project-2024-2025/mini-case-7.md)
 
 ## Final Project
 
