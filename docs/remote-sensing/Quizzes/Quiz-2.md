@@ -1,4 +1,4 @@
-# Quiz n2
+# Quiz 2
 
 ## Q: What kind of imagery would be used for capturing changes over time at high frequency?
 
