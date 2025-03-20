@@ -75,3 +75,19 @@ For the risk management system to be effective, it must become part of the organ
 - Incorporating risk considerations into decision-making protocols
 - Embedding risk management into performance management systems
 - Ensuring risk management becomes part of the organizational culture
+
+## Citations
+
+1. <https://www.juliantalbot.com/post/how-to-implement-iso31000-risk-management-standard>
+2. <https://www.linkedin.com/pulse/iso-standards-31000-27001-22301-27005-brief-guide-richard-wadsworth-lgsve>
+3. <https://fatfinger.io/iso-31000/>
+4. <https://riskonnect.com/business-continuity-resilience/the-basics-of-iso-31000-risk-management/>
+5. <https://www.projectbalm.com/blog/implementing-iso>
+6. <https://www.techtarget.com/searchsecurity/definition/ISO-31000-Risk-Management>
+7. <https://bcicb.com/faq-items/iso-31000/4089/>
+8. <https://practicalrisktraining.com/iso31000>
+9. <https://theconstellation-group.com/implementing-risk-management-framework-iso-31000-risk-management/>
+10. <https://actiosoftware.com/en/iso-31000-everything-about-the-international-risk-management-standard/>
+11. <https://www.metricstream.com/insights/iso31000-erm-risk-management-system.htm>
+12. <https://en.wikipedia.org/wiki/ISO_31000>
+13. <https://www.ionos.com/startupguide/grow-your-business/iso-31000/>
