@@ -86,8 +86,7 @@ Examples:
 
 ## The five major drivers of IT Governance
 
-1. Search for competitive advantage
-   through intellectual assets, information and IT
+1. Search for competitive advantage through intellectual assets, information and IT
 2. Rapidly evolving governance requirements across the Organisation for Economic Co-operation and Development
 3. Increasing information and privacy-related legislation (IT regulatory compliance)
 4. Threats to intellectual assets, information and IT (need for security and business continuity)
