@@ -9,8 +9,7 @@
   - [2.1. Origin and purpose](#21-origin-and-purpose)
   - [2.2. Objectives of ISO 31000](#22-objectives-of-iso-31000)
 - [3. Real world applications of ISO 31000](#3-real-world-applications-of-iso-31000)
-  - [3.1. Case study - Healthypeople](#31-case-study---healthypeople)
-  - [3.2. How it has helped](#32-how-it-has-helped)
+  - [3.1. How ISO 31000 has helped](#31-how-iso-31000-has-helped)
 - [4. Implementation Plan](#4-implementation-plan)
   - [4.1. Step 1: Secure Management Commitment (2-4 weeks)](#41-step-1-secure-management-commitment-2-4-weeks)
   - [4.2. Step 2: Understand Organizational Context (1-2 weeks)](#42-step-2-understand-organizational-context-1-2-weeks)
@@ -21,7 +20,7 @@
       - [4.4.1.2. Step 4.1.2: Risk evaluation/analysis](#4412-step-412-risk-evaluationanalysis)
   - [4.5. Step 5: Develop Risk Treatment Plans (1-2 weeks)](#45-step-5-develop-risk-treatment-plans-1-2-weeks)
   - [4.6. Step 6: Implement Monitoring and Review Processes (1-2 weeks)](#46-step-6-implement-monitoring-and-review-processes-1-2-weeks)
-  - [4.7. Step 7: Integration with Existing Routines (Permanently Ongoing; Initial implementation: 2-3 months) -initial-implementation:-2-3-months)}](#47-step-7-integration-with-existing-routines-permanently-ongoing-initial-implementation-2-3-months--initial-implementation-2-3-months)
+  - [4.7. Step 7: Integration with Existing Routines (Permanently Ongoing; Initial implementation: 2-3 months)](#47-step-7-integration-with-existing-routines-permanently-ongoing-initial-implementation-2-3-months)
 - [5. Advantages and disadvantages](#5-advantages-and-disadvantages)
   - [5.1. Advantages](#51-advantages)
   - [5.2. Disadvantages](#52-disadvantages)
@@ -73,11 +72,9 @@ By providing a universal approach, ISO 31000 enables organizations to manage ris
 
 ## 3. Real world applications of ISO 31000
 
-### 3.1. Case study - Healthypeople
-
 In 2017 the “_WannaCry_” ransomware attack affected the Uk’s NHS (National Health System). This cyberattack ended up disrupting the normal functioning of over 200 000 computers in over 150 countries. The most affected country was the UK with patient records being inaccessible which led to unfortunate delays and cancellations of appointments. Specialists claim that the accident could have been prevented with a robust implementation of a risk management standard and investment in technology, since most trusts had been using operating systems with no security updates.
 
-### 3.2. How it has helped
+### 3.1. How ISO 31000 has helped
 
 As mentioned earlier, ISO 31000 is not a one-size-fits-all solution. The framework provides principles and guidelines for risk management, but its success depends on how organizations adapt it to their specific contexts and maintain a robust risk management culture. Below are examples of companies that have successfully implemented ISO 31000, demonstrating its flexibility and effectiveness in managing diverse risks across industries.
 
@@ -206,7 +203,7 @@ To ensure the system remains effective over time:
 - Implementing review mechanisms to evaluate the risk management system
 - Setting up continuous improvement processes
 
-### 4.7. Step 7: Integration with Existing Routines (Permanently Ongoing; Initial implementation: 2-3 months) -initial-implementation:-2-3-months)}
+### 4.7. Step 7: Integration with Existing Routines (Permanently Ongoing; Initial implementation: 2-3 months)
 
 For the risk management system to be effective, it must become part of the organization's normal operations:
 
