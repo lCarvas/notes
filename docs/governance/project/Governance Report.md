@@ -127,7 +127,7 @@ Underneath, you can find our implementation plan and the expected duration of ea
 Before beginning implementation, it's crucial to obtain top-level management commitment. ISO 31000 follows a top-down approach, with management taking the initiative and organizing the system from above. This step involves:
 
 - Educating leadership about ISO 31000 benefits
-- Preparing a business case for implementation
+- Preparing a business case for implementation1
 - Obtaining formal commitment from management
 - Allocating initial resources for implementation
 
