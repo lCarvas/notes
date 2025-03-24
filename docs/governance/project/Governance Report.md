@@ -1,31 +1,4 @@
-<!-- omit in toc -->
 # HealthyPeople: ISO 31000 Implementation
-
-- [1. Introduction](#1-introduction)
-  - [1.1. Brief overview of the project](#11-brief-overview-of-the-project)
-  - [1.2. Why ISO 31000?](#12-why-iso-31000)
-  - [1.3. Introduction to HealthyPeople hospital](#13-introduction-to-healthypeople-hospital)
-- [2. Understanding ISO 31000](#2-understanding-iso-31000)
-  - [2.1. Origin and purpose](#21-origin-and-purpose)
-  - [2.2. Objectives of ISO 31000](#22-objectives-of-iso-31000)
-- [3. Real world applications of ISO 31000](#3-real-world-applications-of-iso-31000)
-  - [3.1. How ISO 31000 has helped](#31-how-iso-31000-has-helped)
-- [4. Implementation Plan](#4-implementation-plan)
-  - [4.1. Step 1: Secure Management Commitment (2-4 weeks)](#41-step-1-secure-management-commitment-2-4-weeks)
-  - [4.2. Step 2: Understand Organizational Context (1-2 weeks)](#42-step-2-understand-organizational-context-1-2-weeks)
-  - [4.3. Step 3: Establish the Risk Management Framework (2-3 weeks)](#43-step-3-establish-the-risk-management-framework-2-3-weeks)
-  - [4.4. Step 4: Implement Risk Assessment Process (4-6 weeks)](#44-step-4-implement-risk-assessment-process-4-6-weeks)
-    - [4.4.1. Step 4.1: Perform Risk Assessment](#441-step-41-perform-risk-assessment)
-      - [4.4.1.1. Step 4.1.1: Risk Identification](#4411-step-411-risk-identification)
-      - [4.4.1.2. Step 4.1.2: Risk evaluation/analysis](#4412-step-412-risk-evaluationanalysis)
-  - [4.5. Step 5: Develop Risk Treatment Plans (1-2 weeks)](#45-step-5-develop-risk-treatment-plans-1-2-weeks)
-  - [4.6. Step 6: Implement Monitoring and Review Processes (1-2 weeks)](#46-step-6-implement-monitoring-and-review-processes-1-2-weeks)
-  - [4.7. Step 7: Integration with Existing Routines (Permanently Ongoing; Initial implementation: 2-3 months)](#47-step-7-integration-with-existing-routines-permanently-ongoing-initial-implementation-2-3-months)
-- [5. Advantages and disadvantages](#5-advantages-and-disadvantages)
-  - [5.1. Advantages](#51-advantages)
-  - [5.2. Disadvantages](#52-disadvantages)
-- [6. Conclusion](#6-conclusion)
-- [7. Bibliography](#7-bibliography)
 
 ## 1. Introduction
 
