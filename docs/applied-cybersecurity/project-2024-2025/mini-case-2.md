@@ -24,15 +24,23 @@ Important to note that these steps may change slightly due to the creation of an
 ## Script
 
 (Voiceover script)
-In the last episode [Nest Slide]
+In the last episode [Next Slide]:
 
 We saw how our attackers used [click] Social engineering to figure out the internet password, thus were able to sniff packets and found out the neighbors were using a minecraft server, trying to have fun. Now the attackers are very familiar with the ins and outs of a minecraft server so they knew the port to aim at.
 
-[click] <span style="color:red">With hping3 and LOIC our attackers were able to send a </span> DOS attack, flooding their server with SYN packets which caused immense latency issues and thus disturbed their gaming session.
+[click] With hping3 and LOIC our attackers were able to send [click] a DOS attack, flooding their server with SYN packets which caused immense latency issues and thus disturbed their gaming session.
 
-And the defenders, protected themselves by noticing the <span style="color:red">unexpected flood of requests from an unknown ip, verified by wireshark
+And the defenders,[click] protected themselves by noticing the unexpected flood of requests from an unknown ip, verified by wireshark
 
-then, [click] <span style="color:red">swiftly the defenders activated a script that created a rule in their</span> Firewall defense which filters all requests from a specific ip. 
+Then, [click] swiftly the defenders activated a script that created a rule in their Firewall defense which filters all requests from a specific ip.
+
+Story beats:
+Alex/Miguel are in their living room, writting the plan to attack again
+Carvas/Eli are online http page, start a session in a site.
+Miguel/Alex go for the password
+Carvas/Eli online in https site, start a session
+Miguel/Alex dont see the password
+Using Different passwords for different sites is also good practice
 
 ## References
 
