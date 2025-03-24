@@ -26,15 +26,13 @@ Important to note that these steps may change slightly due to the creation of an
 (Voiceover script)
 In the last episode [Nest Slide]
 
-We saw how out attackers used [click] Social engineering to figure out the internet password, thus <span style="color:red">blah blah pls write this</span>
+We saw how our attackers used [click] Social engineering to figure out the internet password, thus were able to sniff packets and found out the neighbors were using a minecraft server, trying to have fun. Now the attackers are very familiar with the ins and outs of a minecraft server so they knew the port to aim at.
 
-[click] <span style="color:red">something something</span> DOS attack
+[click] <span style="color:red">With hping3 and LOIC our attackers were able to send a </span> DOS attack, flooding their server with SYN packets which caused immense latency issues and thus disturbed their gaming session.
 
-[click] <span style="color:red">something something</span> LOIC/H3PING
+And the defenders, protected themselves by noticing the <span style="color:red">unexpected flood of requests from an unknown ip, verified by wireshark
 
-And the defenders, protected themselvs by noticing some <span style="color:red">something something</span> [click] wireshark
-
-then, [click] <span style="color:red">something something</span> Firewall defense filter wtv
+then, [click] <span style="color:red">swiftly the defenders activated a script that created a rule in their</span> Firewall defense which filters all requests from a specific ip. 
 
 ## References
 
