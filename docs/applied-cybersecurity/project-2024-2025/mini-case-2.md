@@ -12,9 +12,9 @@
 Important to note that these steps may change slightly due to the creation of an ssh-keypair
 
 - Run dumpcap over ssh (secure shell)
-  - ssh -t carva@94.62.12.13 "dumpcap -i WiFi -f "not port 22 && (http || https)"
+  - ssh -t carva@94.62.12.13 "dumpcap -i WiFi"
 - Run scp (secure copy protocol)
-  - scp carva@94.62.12.13:<pathToWantedFile> <pathToDestinationDirectory>
+  - scp carva@94.62.12.13:&lt;pathToWantedFile&gt; &lt;pathToDestinationDirectory&gt;
 - Open Wireshark, open file analyze packets
 
 ## References
