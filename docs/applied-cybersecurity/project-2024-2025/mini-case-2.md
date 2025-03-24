@@ -23,6 +23,19 @@ Important to note that these steps may change slightly due to the creation of an
 
 ## Script
 
+(Voiceover script)
+In the last episode [Nest Slide]
+
+We saw how out attackers used [click] Social engineering to figure out the internet password, thus <span style="color:red">blah blah pls write this</span>
+
+[click] <span style="color:red">something something</span> DOS attack
+
+[click] <span style="color:red">something something</span> LOIC/H3PING
+
+And the defenders, protected themselvs by noticing some <span style="color:red">something something</span> [click] wireshark
+
+then, [click] <span style="color:red">something something</span> Firewall defense filter wtv
+
 ## References
 
 canva presentation: <https://www.canva.com/design/DAGipctsa8I/gIE_1aPStpsXruENSbj28A/edit?utm_content=DAGipctsa8I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
