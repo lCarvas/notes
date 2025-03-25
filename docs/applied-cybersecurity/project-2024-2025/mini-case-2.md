@@ -15,10 +15,12 @@
 
 Important to note that these steps may change slightly due to the creation of an ssh-keypair
 
-- Run dumpcap over ssh (secure shell)
-  - ssh -t carva@94.62.12.13 "dumpcap -i WiFi"
+- Connect to Desktop over ssh (secure shell)
+  - ssh carva@94.62.12.13 -i &lt;pathToPrivateKey&gt; (-i identity, private key)
+- Run dumpcap to capture packets
+  - dumpcap -i WiFi -q -f "not port 22" (-i interface to capture from, -q dont show number of packets while capturing, -f filters)
 - Run scp (secure copy protocol)
-  - scp carva@94.62.12.13:&lt;pathToWantedFile&gt; &lt;pathToDestinationDirectory&gt;
+  - scp -i &lt;pathToPrivateKey&gt; carva@94.62.12.13:&lt;pathToWantedFile&gt; &lt;pathToDestinationDirectory&gt; (-i identity, private key)
 - Open Wireshark, open file analyze packets
 
 ## Script
@@ -26,20 +28,23 @@ Important to note that these steps may change slightly due to the creation of an
 (Voiceover script)
 In the last episode [Next Slide]:
 
-We saw how our attackers used [click] Social engineering to figure out the internet password, thus were able to sniff packets and found out the neighbors were using a minecraft server, trying to have fun. Now the attackers are very familiar with the ins and outs of a minecraft server so they knew the port to aim at.
+Our attackers, enraged by the neighbours' dog, decided to get revenge on them by attacking their minecraft server.
+They used [click] Social engineering to figure out their neighbours' Wi-Fi password and as they were very familiar with the ins and outs of a minecraft server, they knew which port to aim at.
 
-[click] With hping3 and LOIC our attackers were able to send [click] a DOS attack, flooding their server with SYN packets which caused immense latency issues and thus disturbed their gaming session.
+[click] Using LOIC (read full word, not letter by letter) our attackers were able to send [click] a DOS attack, flooding their neighbours' server with UDP packets which caused immense latency issues and thus disturbed their gaming session.
 
-And the defenders,[click] protected themselves by noticing the unexpected flood of requests from an unknown ip, verified by wireshark
-
-Then, [click] swiftly the defenders activated a script that created a rule in their Firewall defense which filters all requests from a specific ip.
+The defenders, [click] noticed the unexpected flood of requests from an unknown ip, verified by wireshark and [click] switfly activated a script that created a rule in their Firewall defense which filtered all requests from a specific ip.
 
 Story beats:
 Alex/Miguel are in their living room, writting the plan to attack again
-Carvas/Eli are online http page, start a session in a site.
-Miguel/Alex go for the password
-Carvas/Eli online in https site, start a session
-Miguel/Alex dont see the password
+Carvas asks Alex for help with defending his PC from attacks, as Carvas is dumb and naive and doesn't suspect that Alex was the one to attack him.
+Alex uses the time in front of Carvas' PC to create an ssh-keypair, he then retreives the private key, allowing him to connect to Carvas' PC remotely
+Now at home, Alex connects to Carvas' PC over ssh, and runs dumpcap to capture the packets of his PC
+Carvas/Eli are online http page, log in
+Carvas/Eli online in https site, log in
+Miguel/Alex stop the capture and open the file in wireshark to analyse it
+They see the plain text info in the http case, explain why
+They don't see the info in the https case, explain why
 Using Different passwords for different sites is also good practice
 
 ## References
