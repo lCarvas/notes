@@ -58,7 +58,7 @@ IT just transforms the environment to create and execute strategy
       <td>3. The executive team develops the IS or <i>application requirements</i> and which IT <i>services</i> should be required ("What business processes do we need?"; "What software will enables us to do this?")</td>
     </tr>
     <tr>
-      <td>4. IT <i>architecture committee</i> documents the proposed _architecture_ (identify the operating system, hardware and communication technology platforms, and user access devices that will support the application and information requirements)</td>
+      <td>4. IT <i>architecture committee</i> documents the proposed <i>architecture</i> (identify the operating system, hardware and communication technology platforms, and user access devices that will support the application and information requirements)</td>
     </tr>
     <tr>
       <td><i>5. Technology committee</i> applies the board's risk treatment and compliance/security criteria to the cumulative output of steps 2 to 4 and makes any changes necessary to bring the draft IT strategy into conformance with these criteria</td>
