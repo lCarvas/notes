@@ -1,4 +1,4 @@
-# MC3: Symmetric Encryption (ig not)
+# MC3: Password Cracking
 
 ## RP
 
