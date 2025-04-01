@@ -11,6 +11,7 @@ Direito de autor é para algo criativo, forma de expressão. Patente é mais rí
 
 - Concorrência Desleal
 - Patente
+- Direito de Autor
 
 >Duvida no slide 8
 
