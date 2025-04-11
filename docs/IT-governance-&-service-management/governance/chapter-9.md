@@ -13,4 +13,4 @@ Used to estimate the cost of a project (Ballpark figures)
 - People
 - Accomodation
 
-![This Bitch Empty](./assets/empty.gif)
+![This Bitch Empty](../assets/empty.gif)

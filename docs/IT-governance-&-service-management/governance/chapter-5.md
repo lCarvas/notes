@@ -131,7 +131,7 @@ The Directive has three main objectives
 - Promoting a culture of risk management and incident reporting among key economic actors
   - Notable operators providing essential services (OES) for the maintenance of economic and societal activities and Digital Service Providers (DSPs)
 
-![NIS2](./assets/nis2-diagram.webp)
+![NIS2](../assets/nis2-diagram.webp)
 
 ## DORA Act
 
@@ -141,7 +141,7 @@ It requires financial entities to improve their digital operational resilience.
 
 DORA aims to improve the digital operational resilience of financial entities in the EU and their ICT suppliers and create a uniform regulatory framework across the EU, in order to reduce the susceptibility to cyber threats across the entire value chain of the financial sector.
 
-<img src="./assets/DORA.png" alt="" style="filter: invert(1)">
+<img src="../assets/DORA.png" alt="" style="filter: invert(1)">
 
 ## Anti-Bribery Directive
 

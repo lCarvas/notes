@@ -62,7 +62,7 @@ A framework within which people can address complex adaptive problems, while pro
 - Artifacts
 - Events
 
-![Scrum Diagram](./assets/scrum-diagram.webp)
+![Scrum Diagram](../assets/scrum-diagram.webp)
 
 ## ISO 21500:2012 - Guidance on Project Management
 
@@ -105,7 +105,7 @@ The management of group of related projects in a coordinated way to obtain benef
 
 ### High Level View
 
-![High Level View Diagram](./assets/ch7-diagram-2.drawio.svg)
+![High Level View Diagram](../assets/ch7-diagram-2.drawio.svg)
 
 ### Cross-Company Portfolio Management Process Relationship
 
