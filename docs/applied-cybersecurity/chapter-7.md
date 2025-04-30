@@ -2,5 +2,5 @@
 
 ## Important
 
-PGP pretty good privacy (teacher mentioned this)
-GPG is the same thing, Carvas said
+PGP (Pretty Good Privacy) (teacher mentioned this)
+GPG (GNU Privacy Guard) is the same thing, Carvas said
