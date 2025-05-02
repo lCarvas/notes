@@ -187,3 +187,33 @@ Service relationships include service provision, service consumption and service
     </tr>
   </tbody>
 </table>
+
+## IT as a Service - Output, Outcome, Cost and Risk
+
+Customers seek outcomes but do not wish to manage all the associated specific costs and risks
+
+**Output:** A tangible or intangible deliverable of an activity
+
+**Outcome:** A result for a stakeholder enabled by one or more outputs
+
+**Cost:** The amount of money spent on a specific activity or resource:
+
+- Costs removed from customer (part of value)
+- Costs imposed on customer (costs of consumption)
+
+**Risk:** Possible event that could cause harm or hinder achievement of objectives. (Uncertainty of outcome.)  
+Can be seen as:
+
+- Risks removed from the customer (part of value)
+- Risks imposed on customer (risks of consumption)
+
+## Service Value Definition
+
+![diagram 4](../assets/diagram-4.drawio.svg)
+
+## Internal and External Customers and Services
+
+Just as there are internal and external customers, there are internal and external services
+
+<!-- TEMP IMAGE SWAP LATER -->
+![img](../assets/image.png)
