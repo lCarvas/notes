@@ -56,14 +56,14 @@ Align organization's practices and services with changing business needs through
 
 Key activities of continual improvement practice include:
 
-- encouraging continual improvement across the organization
-- securing time and budget for continual improvement
-- identifying and logging improvement opportunities
-- assessing and prioritizing improvement opportunities
-- making business cases for improvement action
-- planning and implementing improvements
-- measuring and evaluating improvement results
-- coordinating improvement activities across the organization.
+- Encouraging continual improvement across the organization
+- Securing time and budget for continual improvement
+- Identifying and logging improvement opportunities
+- Assessing and prioritizing improvement opportunities
+- Making business cases for improvement action
+- Planning and implementing improvements
+- Measuring and evaluating improvement results
+- Coordinating improvement activities across the organization.
 
 The scope of Continual improvement (as a General management practice) includes:
 
