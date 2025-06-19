@@ -27,12 +27,12 @@ It is important to remember that the scope and details of each step of the model
 - Each improvement initiative should support the organization's goals and objectives
 - First step is to define vision of the initiative
   - This provides context for all subsequent decisions
-  - links individual actions to the organization's vision for future
+  - Links individual actions to the organization's vision for future
 
 Focus on two essential areas:
 
 - Organization's vision/objectives translated to specific organizational unit so context, objectives, and boundaries are understood.
-- high-level vision for the planned improvement needs to be created.
+- High-level vision for the planned improvement needs to be created.
 
 The work to do in this step is:
 
@@ -44,21 +44,21 @@ The work to do in this step is:
 
 ### 2. Where are we now?
 
-- Success depends on clear/ accurate understanding of starting point and impact
+- Success depends on clear/accurate understanding of starting point and impact
 - An improvement journey from A to B, needs clear definition of Point A
 
 Current state assessments
 
 - Existing services, including: users' perception, competencies and skills, processes and procedures, capabilities of technological solutions
 - Understand organization's culture, values and attitudes across stakeholder groups, to decide what level of organizational change management is required.
-- objective measurement for accurate understanding of issues with current state.
+- Objective measurement for accurate understanding of issues with current state.
 - Will help assess level of improvement by comparison with the initial state.
 - This step is easier with a good measurement system in place
 
 If this step is not taken:
 
 - There will not be an objective baseline measurement.
-- effectiveness of improvement activities will then be difficult to assess
+- Effectiveness of improvement activities will then be difficult to assess
 
 ### 3. Where do we want to be?
 
@@ -138,7 +138,7 @@ Examples:
 Work in iterations
 
 - Even if path is clear, iterations are effective
-- each iteration is an opportunity to check progress, re-evaluate the
+- Each iteration is an opportunity to check progress, re-evaluate the
   approach, and change direction
 
 If this step is not taken:
@@ -191,7 +191,7 @@ If this step is not taken:
 
 Tips on how to to keep the momentum:
 
-- Embed changes with organizational change management and knowledge managementto avoid risk of reversion.
+- Embed changes with organizational change management and knowledge management to avoid risk of reversion.
 - Leaders and managers should integrate new methods and institutionalize new behaviors
 - In case of failure stakeholders need to be informed of the reasons
 - Failure requires a thorough analysis - the lessons learned

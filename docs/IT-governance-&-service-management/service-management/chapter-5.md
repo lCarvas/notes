@@ -77,7 +77,7 @@ To give a more background on information used in this activity you can consider 
 
 ### 3. Engage
 
-Provide good understanding of stakeholder needs, transparency, continual engagement an good relationships with all stakeholders
+Provide good understanding of stakeholder needs, transparency, continual engagement and good relationships with all stakeholders
 
 An example of an input to this activity is contract and agreement requirements or opportunities from current and potential customers and users; this will be then used to design product and service requirements and contracts and agreements amongst others.
 
