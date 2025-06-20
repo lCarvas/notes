@@ -54,30 +54,26 @@ Aspects that play a role:
 - Required technologies
 - Relationships between different components of the SVS, such as inputs/outputs of activities and practices.
 
-- Relationships between components
-- Technologies
-- Information and Technologies knowledge
-
 Consider the following questions:
 
 - What information is managed by the services?
 - What information and knowledge are needed to deliver and manage the services?
-- How information and knowledge be protected, managed, archived, and disposed of?
+- How should information and knowledge be protected, managed, archived, and disposed of?
 
 Technologies that support service management include:
 
-- workflow management systems,
-- knowledge bases,
-- inventory systems
-- communication systems,
-- analytical tools
+- Workflow management systems,
+- Knowledge bases,
+- Inventory systems
+- Communication systems,
+- Analytical tools
 - Artificial intelligence
-- machine learning
-- mobile platforms
-- cloud solutions
-- remote collaboration tools
-- automated testing
-- deployment solutions
+- Machine learning
+- Mobile platforms
+- Cloud solutions
+- Remote collaboration tools
+- Automated testing
+- Deployment solutions
 
 Service management increasingly benefits from developments in technology. Technologies are used at all levels, from strategic planning and portfolio optimization to system monitoring and user support. The use is becoming common practice among service providers.
 
@@ -114,19 +110,19 @@ Service integration and management may be kept within the organization, but can 
 Factors that may influence an organization's strategy when using suppliers include:
 
 - Strategic focus
-- Either focus on core competencies and outsource non-core functions to third parties, or stay self-sufficient and retain control over important functions.
+  - Either focus on core competencies and outsource non-core functions to third parties, or stay self-sufficient and retain control over important functions.
 - Corporate culture
-- Can cause historical preference (cultural bias) for one approach over another. This is difficult to change without compelling reasons.
+  - Can cause historical preference (cultural bias) for one approach over another. This is difficult to change without compelling reasons.
 - Resource scarcity
-- If in short supply, a service provider may need to engage a supplier.
+  - If in short supply, a service provider may need to engage a supplier.
 - Cost concerns
-- A service provider may believe it more economical to source from a supplier.
+  - A service provider may believe it more economical to source from a supplier.
 - Subject matter expertise
-- It may be less risky to use a supplier that already has expertise, rather than develop and maintain in house.
+  - It may be less risky to use a supplier that already has expertise, rather than develop and maintain in house.
 - External constraints
-- Government regulation or policy, industry codes of conduct, and social, political or legal constraints may impact a supplier strategy.
+  - Government regulation or policy, industry codes of conduct, and social, political or legal constraints may impact a supplier strategy.
 - Demand patterns
-- Customer activity or demand may be seasonal or demonstrate high degrees of variability. Patterns may impact the extent to which use is made of external service providers.
+  - Customer activity or demand may be seasonal or demonstrate high degrees of variability. Patterns may impact the extent to which use is made of external service providers.
 
 Recent trends include companies that offer technical resources (infrastructure) or capabilities (platforms, software) 'as a service'. They bundle goods and services into a single product as a utility, and is accounted for as operating expenditure. This frees companies from investing in costly infrastructure and software assets that need to be accounted for as capital expenditure.
 
@@ -137,7 +133,7 @@ Recent trends include companies that offer technical resources (infrastructure) 
 
 - Activities the organization undertakes
 - How activities are organized
-- How value is ensure for all stakeholders efficiently and effectively
+- How value is ensured for all stakeholders efficiently and effectively
 
 Value streams for service management:
 
